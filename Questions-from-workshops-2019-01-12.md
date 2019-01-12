@@ -2,7 +2,7 @@ Osoba nr. 1
 Pytanie:
 
 Osoba nr. 2
-Pytanie:
+Pytanie: qwerty
 
 Osoba nr. 3
 Pytanie:
